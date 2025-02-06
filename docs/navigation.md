@@ -1,3 +1,3 @@
 # Page Navigation
 
- <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVLimVONE=/?pres=1&frameId=3458764616128677928&embedId=304687856921" frameborder="0" scrolling="no" allow="fullscreen;" allowfullscreen></iframe>
+![Personal Finance Tracker](https://github.com/user-attachments/assets/a6287ff0-9fbb-44ae-b5a1-08311b8e720f)
