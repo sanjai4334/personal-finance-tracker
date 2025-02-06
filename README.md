@@ -24,3 +24,7 @@ A responsive web application that helps user track and visualize their cash flow
  - Authentication: JWT (JSON Web Tokens)
  - Charting Library: Recharts
 
+## Documentation
+ - [Project Overview](./docs/idea.md)
+ - [Pages and Purposes](./docs/pages.md)
+ - [Page Navigation](./docs/navigation.md)
